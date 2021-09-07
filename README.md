@@ -1,2 +1,7 @@
 # PiPong
- Pong for RaspberryPi SenseHat // Made for Windesheim
+
+## Pong for RaspberryPi SenseHat
+
+Made for Windesheim
+
+© Thomas Lipman under MIT license
